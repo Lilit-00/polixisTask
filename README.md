@@ -1,3 +1,6 @@
+post request ---> http://localhost:8080/send
+
+
 {
   "id": 2,
   "name": "john_doe",
